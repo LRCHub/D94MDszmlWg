@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "まほうのかぜ",
+  "base_artist": "熊田茜音",
+  "createdAt": "2026-01-01T01:19:21.308295Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "まほうのかぜ",
+      "artist": "熊田茜音",
+      "has_synced": true,
+      "path": "select/01_まほうのかぜ_熊田茜音.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "まほうのかぜ (TVアニメ『スーパーカブ』オープニング主題歌) / 熊田茜音［Official Music Video]",
+      "artist": "熊田茜音",
+      "has_synced": true,
+      "path": "select/02_まほうのかぜ_(TVアニメ『スーパーカブ』オープニング主題歌)___熊田茜音[Official_Music_Video]_熊田茜音.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "まほうのかぜ",
+      "artist": "熊田茜音",
+      "has_synced": false,
+      "path": "select/pl_01_まほうのかぜ_熊田茜音.txt"
+    }
+  ]
+}
